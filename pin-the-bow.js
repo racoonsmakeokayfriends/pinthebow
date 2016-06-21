@@ -45,21 +45,21 @@ $(document).ready(function()    {
     /**** initializing the game ****/
     function populate_cat_images()    {
 		cats = [];
-		cats[0] = "./assets/clee.png";
-		cats[1] = "./assets/nixy.png";
-		cats[2] = "./assets/bubb.png";
-		cats[3] = "./assets/smok.png";
+		cats[0] = "assets/clee.png";
+		cats[1] = "assets/nixy.png";
+		cats[2] = "assets/bubb.png";
+		cats[3] = "assets/smok.png";
 		return cats;
     };
 
     function populate_bow_images()    {
         bows = [];
-        bows[0] = "./assets/bowtie1.png";
-        bows[1] = "./assets/bowtie2.png";
-        bows[2] = "./assets/bowtie3.png";
-        bows[3] = "./assets/bowtie4.png";
-        bows[4] = "./assets/bowtie5.png";
-        bows[5] = "./assets/bowtie6.png";
+        bows[0] = "assets/bowtie1.png";
+        bows[1] = "assets/bowtie2.png";
+        bows[2] = "assets/bowtie3.png";
+        bows[3] = "assets/bowtie4.png";
+        bows[4] = "assets/bowtie5.png";
+        bows[5] = "assets/bowtie6.png";
         return bows;
     };
 
